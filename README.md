@@ -1,0 +1,1 @@
+# poc-manitou-common
